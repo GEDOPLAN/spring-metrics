@@ -1,4 +1,4 @@
-# GEDOPLAN Spring Boot Acturator und Metrics
+# GEDOPLAN Spring Boot Actuator und Metrics
 
 * Actuator
 * Metrics
